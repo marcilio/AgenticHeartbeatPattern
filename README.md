@@ -1,4 +1,4 @@
-# The Agentic Heartbeat Pattern: A New Approach to Hierarchical AI Agent Coordination
+# The Agentic Heartbeat Pattern: Forget Rigid Workflows — Let AI Agents Self-Organize
 
 **Author:** Marcilio Mendonca (PhD, Sr Solutions Architect, ML Specialist)
 
@@ -10,11 +10,11 @@ Disclaimer: This article was partially AI-assisted and fully reviewed by me.
 
 ## Introduction
 
-In the rapidly evolving landscape of AI agents and Agentic workflows, we face an important and practical challenge: how do we coordinate multiple agents to solve complex, hierarchical problems that mirror real-world organizational structures? Traditional approaches often rely on rigid workflows or complex agent chains, but what if we could create a more natural, self-organizing system that mirrors how humans actually work together?
+In the rapidly evolving landscape of AI agents and Agentic workflows, we face an important and practical challenge: how do we coordinate multiple agents to solve complex problems that mirror real-world organizational structures? Traditional approaches often rely on rigid workflows or complex agent chains, but what if we could create a more natural, self-organizing system that mirrors how humans actually work together?
 
-I have faced such a challenge just recently while working with a customer. I ended up creating a complex LangChain workflow consisting of ephemeral agents and a set of core and composed tools. It worked, but I felt that the approach could be simplified and rather benefit from flexible agentic interactions. That's how I end up creating what I called the **Agentic Heartbeat Pattern** - a novel coordination approach that enables AI agents to work together in hierarchical structures, following a natural rhythm of expansion and contraction, much like a heartbeat.
+Recently, while working with a customer, I faced this exact challenge. My solution at the time was a complex LangChain workflow with ephemeral agents and a mix of core and composed tools. It worked — but I couldn’t shake the feeling that it could be simpler if the agents were allowed to organize themselves. That insight led me to create what I call the **Agentic Heartbeat Pattern**: a coordination approach that enables AI agents to collaborate, typically in hierarchical structures, following a natural rhythm of expansion and contraction — much like a heartbeat.
 
-The Hearbeat Pattern can be applied to practical problems we encounter daily: building status reports across organizational hierarchies, managing supply chain networks, coordinating project teams, and any scenario where information needs to flow both down (for data gathering) and up (for aggregation and decision-making). The Heartbeat pattern can be powerful because it requires *less rigid code structure*, enables *self-organizing agents*, and *creates a natural flow* where agents can serve as tools for other agents, and tools can invoke agents - creating a truly dynamic system.
+The Heartbeat Pattern can be applied to practical problems we encounter daily: building status reports across organizational hierarchies (as demonstrated in this article), analyzing supply chain networks, performing complex document review, and scientific research synthesis, or any scenario where information needs to flow both down (for data gathering) and up (for aggregation and decision-making). The Heartbeat pattern can be powerful because it requires less rigid code structure, enables self-organizing agents, and creates a natural flow where agents can serve as tools for other agents, and tools can invoke agents — creating a truly dynamic system.
 
 ## The Heartbeat Agentic Pattern
 
