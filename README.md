@@ -237,4 +237,3 @@ This is an experimental pattern that we hope will be useful to others building c
 
 - Strands Agents: https://strandsagents.com/
 - Amazon Bedrock: https://aws.amazon.com/bedrock/
-- GitHub repository:
