@@ -147,7 +147,7 @@ Switching to Claude Sonnet 3.7 dramatically improved the results:
 - Cleaner, more professional status report generation
 - Faster overall execution despite the more powerful model
 
-Feel free to test with other models
+Choose your models wisely!
 
 ### Sample Output
 
@@ -237,3 +237,4 @@ This is an experimental pattern that we hope will be useful to others building c
 
 - Strands Agents: https://strandsagents.com/
 - Amazon Bedrock: https://aws.amazon.com/bedrock/
+- Medium publication: https://medium.com/@marcilio.mendonca/the-agentic-heartbeat-pattern-a-new-approach-to-hierarchical-ai-agent-coordination-4e0dfd60d22d
