@@ -1,7 +1,9 @@
 # The Agentic Heartbeat Pattern: A New Approach to Hierarchical AI Agent Coordination
 
-**Author:** Marcilio Mendonca - PhD, Sr Solutions Architect, ML Specialist
+**Author:** Marcilio Mendonca (PhD, Sr Solutions Architect, ML Specialist)
+
 **Contact**: https://www.linkedin.com/in/marcilio
+
 **Date:** August 13, 2025
 
 Disclaimer: This article was partially AI-assisted and fully reviewed by me.
