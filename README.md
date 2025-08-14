@@ -6,7 +6,7 @@
 
 **Date:** August 13, 2025
 
-Disclaimer: This article was partially AI-assisted and fully reviewed by me.
+Please refer to [Medium article](https://medium.com/@marcilio.mendonca/the-agentic-heartbeat-pattern-a-new-approach-to-hierarchical-ai-agent-coordination-4e0dfd60d22d) for the most up-to-date information on the Heartbeat pattern.
 
 ## Introduction
 
@@ -238,3 +238,5 @@ This is an experimental pattern that we hope will be useful to others building c
 - Strands Agents: https://strandsagents.com/
 - Amazon Bedrock: https://aws.amazon.com/bedrock/
 - Medium publication: https://medium.com/@marcilio.mendonca/the-agentic-heartbeat-pattern-a-new-approach-to-hierarchical-ai-agent-coordination-4e0dfd60d22d
+
+Disclaimer: This article was partially AI-assisted and fully reviewed by me.
