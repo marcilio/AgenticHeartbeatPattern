@@ -1,12 +1,12 @@
 # The Agentic Heartbeat Pattern: Forget Rigid Workflows — Let AI Agents Self-Organize
 
-**Author:** Marcilio Mendonca (PhD, Sr Solutions Architect, ML Specialist)
+**Author:** Marcilio Mendonca (PhD, Sr Solutions Architect at AWS, ML Specialist)
 
 **Contact**: https://www.linkedin.com/in/marcilio
 
 **Date:** August 13, 2025
 
-Please refer to [Medium article](https://medium.com/@marcilio.mendonca/the-agentic-heartbeat-pattern-a-new-approach-to-hierarchical-ai-agent-coordination-4e0dfd60d22d) for the most up-to-date information on the Heartbeat pattern.
+Please refer to the [Medium article](https://medium.com/@marcilio.mendonca/the-agentic-heartbeat-pattern-a-new-approach-to-hierarchical-ai-agent-coordination-4e0dfd60d22d) for the most up-to-date information on the Heartbeat pattern.
 
 ## Introduction
 
